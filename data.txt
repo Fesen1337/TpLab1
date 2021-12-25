@@ -1,0 +1,2 @@
+Furniture chair 12 10 15 red unknown 1243
+Worker Andrew Fesenkp Aleksandrovich junior 40000 spb 899951243100
